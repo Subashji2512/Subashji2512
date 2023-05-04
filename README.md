@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subashji2512
-- 👀 I’m interested in web development and game development 
+- 👀 I’m interested in web development and data analytics and video editing  
 - 🌱 I’m currently learning Btech 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me subashjipbk@gmail.com 
