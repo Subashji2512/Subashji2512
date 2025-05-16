@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Subashji2512
-- 👀 I’m interested in building ML/DL models and data science
-- 💞️ I’m looking to work in many ML related Projects
-- 📫 To reach me give a mail to subashjipbk@gmail.com  
+ # 👋🏼 Hi, I'm Subashji Natarajan
 
-<!---
-Subashji2512/Subashji2512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Associate Software Engineer @ TechMahindra
+
+👀 I’m passionate about **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**.  
+🌱 Currently working on many exciting projects as a **Backend Developer**.  
+🎓 Completed B.tech in ECE  at the **Amrita Vishwa Vidyapeetham**, Coimbatore,TamilNadu.    
+🔭 Always exploring how to blend **engineering, AI, and creativity** into practical, impactful solutions.
+
+
